@@ -1,0 +1,19 @@
+{
+  "name": "quick-sass",
+  "version": "1.0.0",
+  "description": "Quickly intall Sass on any project.",
+  "scripts": {
+    "css": "node-sass --output-style compressed --include-path scss assets/css/app.scss style.css",
+    "watch": "nodemon -e scss -x \"npm run css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjcarey/quick-sass.git"
+  },
+  "author": "WJ Carey",
+  "homepage": "https://contrived,io",
+  "devDependencies": {
+    "node-sass": "^4.5.3",
+    "nodemon": "^1.11.0"
+  }
+}
