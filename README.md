@@ -1,5 +1,5 @@
 # quick-sass
-Quickly intall Sass on a exsisting project
+Quickly intall Sass on a exsisting project works with WordPress too!
 
 ## Requirements
 node.js and commandline access
