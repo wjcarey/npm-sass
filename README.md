@@ -1,4 +1,4 @@
-# quick-sass
+# npm-sass
 Quickly intall Sass on a exsisting project works with WordPress too!
 
 ## Requirements
