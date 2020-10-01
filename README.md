@@ -2,12 +2,12 @@
 Quickly intall Sass on a exsisting project works with WordPress too!
 
 ## Requirements
-node.js and commandline access
+node.js and commandline
 
 ### instructions for fresh install
 from your commandline, navigate to the directory you will be working from. 
 ~~~
-git clone https://github.com/wjcarey/quick-sass.git
+git clone https://github.com/wjcarey/npm-sass.git
 ~~~
 
 Copy the repository files into your directory and run 
